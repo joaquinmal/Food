@@ -386,15 +386,3 @@ figure .shirt-2 {
   left: 52.5%;
   transform: skew(10deg) rotate(-15deg);
 }
-
-.button-container{
-    display: flex;
-    flex-direction: column;
-&-text-centered{
-    text-align: center;
-    padding: 5px;
-    padding-bottom: 0;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size:smaller;
-}
-}
